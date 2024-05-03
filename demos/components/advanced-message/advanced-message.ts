@@ -1,4 +1,6 @@
-import { LitElement, html, customElement, property } from 'lit-element';
+import { LitElement, html  } from 'lit-element';
+import { customElement, property  } from 'lit-element/decorators.js';
+
 import { consume } from '../../../src/lit-context';
 
 @customElement('advanced-message')
