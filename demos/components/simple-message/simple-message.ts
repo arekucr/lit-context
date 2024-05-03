@@ -1,5 +1,5 @@
 import { LitElement, html  } from 'lit-element';
-import { customElement, property  } from 'lit-element/decorators.js';
+import { customElement, property  } from 'lit/decorators.js';
 import { consume } from '../../../src/lit-context';
 
 @customElement('simple-message')
