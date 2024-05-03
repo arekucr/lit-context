@@ -1,5 +1,5 @@
 import { LitElement, html  } from 'lit-element';
-import { customElement, property  } from 'lit/decorators.js';
+import { customElement, property  } from 'lit/decorators';
 import { consumeHttp } from "../../contexts/http-context";
 
 @customElement("dog-list")

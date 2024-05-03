@@ -1,5 +1,5 @@
 import { LitElement, html  } from 'lit-element';
-import { customElement  } from 'lit/decorators.js';
+import { customElement  } from 'lit/decorators';
 import  '../just-container/just-container';
 import  '../simple-message/simple-message';
 

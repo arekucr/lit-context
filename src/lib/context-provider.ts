@@ -7,7 +7,7 @@
  */
 
 import { LitElement, html } from 'lit-element';
-import { property } from 'lit-element/decorators'
+import { property } from 'lit/decorators'
 import { createContext } from './context';
 import { Context } from '../types/context';
 
