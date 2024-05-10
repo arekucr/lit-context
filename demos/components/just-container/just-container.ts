@@ -1,5 +1,5 @@
 
-import { LitElement, html } from 'lit-element';
+import { LitElement, html } from 'lit';
 
 export class JustContainer extends LitElement {
   updates: number = 0;

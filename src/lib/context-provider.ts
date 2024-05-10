@@ -6,7 +6,7 @@
  *
  */
 
-import { LitElement, html } from 'lit-element';
+import { LitElement, html } from 'lit';
 import { property } from 'lit/decorators.js';
 import { createContext } from './context';
 import { Context } from '../types/context';
